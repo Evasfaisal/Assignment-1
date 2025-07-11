@@ -1,0 +1,133 @@
+.middle-content{
+width: 1200px;
+margin: auto;
+}
+.header-contant{
+border: 1px solid ;
+height: 698px;
+background-image: url(Assets/Hero-bg.png);
+}
+.section-contant{
+border: 1px solid ;
+width: 100%;
+}
+.nav-contant{
+border: px solid ;
+
+}
+.nav-contant-ul{
+margin: 0;
+display: flex; 
+justify-content: space-between;
+text-align: center;
+list-style: none;
+border: 1px solid ;
+
+}
+.nav-li{
+
+}
+.li-heading{
+margin-top: 46px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+font-size: 34px; 
+color: blue;
+}
+.li-button{
+margin: 20px;
+width: 100px;
+padding: 16px;
+background: #4E47FF;
+color: aliceblue;
+border-radius: 8px;
+}
+.li-heading1{
+
+}
+.banner{
+text-align: center;
+margin: 158px ;
+}
+.banner-text{
+font-size: 18px;
+font-weight: bold;
+}
+.banner-button{
+background: #4E47FF;
+color: aliceblue;
+padding: 10px;
+width: 174px;
+font-size: 17px;
+font-weight: bold;
+border-radius: 10px;
+height:48px ;
+}
+.middle-content1{
+border: 1px solid;
+display: flex;
+justify-content: space-between;
+margin-top: 116px;
+}
+.main-top{
+
+}
+.main-top-h1{
+font-size: 42px;
+font-weight: bold;
+}
+.main-top-button{
+background: #4E47FF;
+color: aliceblue;
+padding: 10px;
+border-radius: 6px;
+height: 54px;
+width: 229px;
+}
+.main-top-img img{
+border-radius: 48px;
+}
+.main-top-pera{
+font-size: 36px;
+
+
+}
+.second-middle-content{
+border: 1px solid;
+
+background: #bcbbe783;
+margin-top: 116px;
+height: 306px;
+border-radius: 24px;
+text-align: center;
+}
+.second-middle-content-main{
+display: flex;
+justify-content: space-between;
+align-items: flex-end; 
+}
+
+.second-middle-content1{
+font-size: 30px;
+font-weight: bold;
+color:#4c46e9;
+font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 30px;
+
+}
+.second-middle-content-h6{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+color: rgba(117, 107, 107, 0.856);
+font-size: 20px;
+margin: 0px 0px ;
+}
+.second-middle-content0{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 30px;
+}
