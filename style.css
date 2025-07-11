@@ -5,7 +5,7 @@ margin: auto;
 .header-contant{
 border: 1px solid ;
 height: 698px;
-background-image: url(Assets/Hero-bg.png);
+background-image: url(image/Hero-bg.png);
 }
 .section-contant{
 border: 1px solid ;
@@ -130,4 +130,58 @@ margin: 0px 0px ;
     font-size: 18px;
     font-weight: bold;
     margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+.touch-section{
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 632px;
+
+}
+.touch-section-child{
+height: 490px;
+}
+.touch-section-child1{
+border: 1px solid;
+height: 490px;
+width: 464px ;
+}
+.tuch-h1{
+font-size: 97px;
+font-weight: bold;
+
+}
+.touch-section-child1-form{
+  
+
+}
+input{
+  border-radius: 10px;
+  padding: 20px;
+  width: 420px;
+  margin: 10px 0px;
+}
+textarea{
+    border-radius: 10px;
+  padding: 20px;
+  width: 422px;
+  height: 135px;
+}
+.input-btn{
+width: 100%;
+padding: 20px;
+border-radius: 5px;
+background: #4E47FF;
+color: white;
+font-size: 17px;
+font-weight: bold;
 }
