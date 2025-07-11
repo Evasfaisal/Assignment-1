@@ -43,6 +43,11 @@ background: #4E47FF;
 color: aliceblue;
 border-radius: 8px;
 }
+.btn:hover{
+background: #000;
+color: aliceblue;
+
+}
 .li-heading1{
 
 }
