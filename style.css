@@ -114,10 +114,20 @@ border-radius: 24px;
 text-align: center;
 padding: 27px;
 }
+.second-middle-content h1{
+margin: 0px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 42px;
+  margin-top: 33px;
+
+}
 .second-middle-content-main{
 display: flex;
 justify-content: space-between;
 align-items: flex-end; 
+margin-top: 45px;
 }
 
 .second-middle-content1{
@@ -129,6 +139,10 @@ font-family: "Inter", sans-serif;
   font-style: normal;
   margin: 20px;
 
+  
+}
+.second-middle-content1 h1{
+  margin: 0;
 }
 .second-middle-content-h6{
     font-family: "Inter", sans-serif;
@@ -138,13 +152,6 @@ color: rgba(117, 107, 107, 0.856);
 font-size: 20px;
 margin: 0px 0px ;
 }
-.second-middle-content0{
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 130px;
-}
-
-
 
 .card-contant{
 text-align: center;
