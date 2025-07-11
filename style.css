@@ -147,7 +147,6 @@ margin: 0px 0px ;
 
 
 .card-contant{
-border: 1px solid;
 text-align: center;
 margin-top: 116px;
 
@@ -163,13 +162,17 @@ font-size: 42px;
 }
 
 .card-parent{
-border: 1px solid;
 padding: 14px;
+display: flex;
+justify-content: space-between;
+
 }
+
 .card-child-div{
   display: flex;
   justify-content: center;
 }
+
 .card-child ul{
   display: flex;
   list-style: none;
@@ -177,29 +180,28 @@ margin-left: -20px;
 
 }
 .card-child{
+  background: #fcfcfc;
   height: 100%;
   width: 318px;
-  border: 1px solid;
   border-radius: 14px;
   padding: 20px;
 }
 .card-bottom-img{
   display: flex;
-  border:1px solid;
  align-items: center;
 }
 
 .card-bottom-img1 img{
 height: 39px;
-border: 1px solid;
 border-radius: 50%;
 margin-left: 19px;
 }
 .card-bottom-h1{
+
   margin-left: 15px;
-  
-  
-  text-align: left;}
+  text-align: left;
+}
+
 .card-bottom-h1 h1{
 margin:   0px;
 padding: 0px;
